@@ -1,0 +1,17 @@
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\bin\Debug\net7.0\Todo.Domain.Infra.deps.json
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\bin\Debug\net7.0\Todo.Domain.Infra.dll
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\bin\Debug\net7.0\Todo.Domain.Infra.pdb
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.csproj.AssemblyReference.cache
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.dll
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\refint\Todo.Domain.Infra.dll
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.pdb
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\ref\Todo.Domain.Infra.dll
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\bin\Debug\net7.0\Todo.Domain.Infra.runtimeconfig.json
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\bin\Debug\net7.0\Todo.Domain.dll
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\bin\Debug\net7.0\Todo.Domain.pdb
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.csproj.CopyComplete
+C:\Users\apeju\Desktop\Projetos\Todo\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.genruntimeconfig.cache
